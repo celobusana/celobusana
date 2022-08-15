@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @celobusana
-- 👀 I’m interested in learning more about front and backend frameworks 
-- 🌱 I’m currently learning about React, NodeJS + Nest, Python, Machine Learning, IA and NoSQL
-- 💞️ I’m looking to collaborate on React Projects
+- 👀 I’m interested in learning more about fullstack 
+- 🌱 I’m currently learning about React + NestJS, Machine Learning, IA and NoSQL
+- 💞️ I’m looking to collaborate on projectcs
 - 📫 How to reach me on Linkedin
 
 <!---
