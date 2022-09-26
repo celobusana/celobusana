@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @celobusana
-- 👀 I’m looking to become fullstack senior developer 
-- 🌱 I’m currently learning about React/React Native + NestJS
+- 👀 I’m looking to become fullstack senior developer, but my strengths are in backend: Python, NodeJS, PHP
+- 🌱 I’m currently working on App private project with React/React Native + NestJS
 - 💞️ I’m looking to collaborate on projectcs
 - 📫 Reach me on Linkedin
