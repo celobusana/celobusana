@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Marcelo Busana
 - 👀 I’m looking to become fullstack senior developer, but my strengths are in backend: Python, NodeJS, PHP
-- 🌱 I’m currently working on private App project with React/React Native + NestJS
-- 💞️ I’m looking to collaborate on projectcs
-- 📫 Reach me on Linkedin
+- 🌱 I’m currently working on two projects: 
+  - App React/React Native + NestJS
+  - Fintech company using Python/Django + Vue
