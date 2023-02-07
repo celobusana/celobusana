@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Marcelo Busana
-- 👀 I’m senior software engineer
+- 👀 I’m Senior Software Engineer
 - 🌱 I’m currently working on two projects: 
   - App React/React Native + NestJS
   - Fintech company using Python/Django + Vue
